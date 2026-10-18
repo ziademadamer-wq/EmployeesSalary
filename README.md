@@ -6,5 +6,5 @@ The project has 2 sources to extract data from :
 1-Json File is already saved with file
 2- Database from sql server 
 to extract Database from sql server the backup file is saved on ( SQL Data ) Folder,
-as for Json file it is saved already and you can extract it through the app
+as for Json file it is saved also on (Json Data) Folder and you need to open Business Layer class and write the File Path on the Constructor.
 all uou need to do is select the Storage Type you want through a message box will appear to you as you open the app.
