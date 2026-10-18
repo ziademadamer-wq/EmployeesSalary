@@ -1,7 +1,7 @@
 a small project is designed by C# and WPF and ADO.Net.
 I’ve learned a bit about how to use WPF and ADO.NET.
 that project was a small excercise on using 3-Tier Architecture (Data Access Liar , Business Liar and Presentation Liar)
-and CleanCode.
+,CleanCode , inheritance and some of C# concepts.
 The project has 2 sources to extract data from :
 1-Json File is already saved with file
 2- Database from sql server 
